@@ -1,0 +1,22 @@
+# IDE
+.idea/
+*.iml
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android/Gradle
+**/local.properties
+**/android/*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
